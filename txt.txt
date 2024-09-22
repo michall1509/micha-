@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+<html>
+     <head>
+	     <meta charset="uft-8">
+	     <title> Michał Nowak  </title>
+     </head>
+    <body>
+ Michał Nowak
+<p align="right"> <front color="blue" size="7" face=Arial"> Michał </front> </p> <br>
+<p align="right"> <front color="blue" size="6" face=Arial"> Michał </front> </p> <br>
+<p align="right"> <front color="blue" size="5" face=Arial"> Michał </front> </p> <br>
+<p align="right"> <front color="blue" size="4" face=Arial"> Michał </front> </p> <br>
+<p align="right"> <front color="blue" size="3" face=Arial"> Michał </front> </p> <br>
+<p align="right"> <front color="blue" size="2" face=Arial"> Michał </front> </p> <br>
+<p align="right"> <front color="blue" size="1" face=Arial"> Michał </front> </p> <br>
+<h6>  Nowak </h6><br>
+<h5>  Nowak </h5><br>
+<h4>  Nowak </h4><br>
+<h3>  Nowak </h3><br>
+<h2>  Nowak </h2><br>
+<h1>  Nowak </h1><br>
+<p aling="right"> <front color="blue" size="1" face="arial"> 8) + zadowolenie, uśmiech</front> </p> <br>
+<p aling="right"> <front color="red" size="2" face="Times New Roman"> 8D + szczęcie bardzo szeroki usmiech</front> </p> <br>
+<p aling="right"> <front color="green" size="3" face="Calibri">:C duży smutek </front> </p> <br>
+<p aling="right"> <front color="purple" size="4" face="Cambria">:P pokazanie języka </front> </p> <br>
+<p aling="right"> <front color="pink" size="5" face="Arial Nova">:D szeroki uśmiech </front> </p> <br>
+<p aling="right"> <front color="yellow" size="6" face="Aptos">;) uśmiech z przymrużeniem oka </front> </p> <br>
+    </body>
+  </html>
+
